@@ -1,1 +1,2 @@
-This is the first directory
+this is readme
+updated
